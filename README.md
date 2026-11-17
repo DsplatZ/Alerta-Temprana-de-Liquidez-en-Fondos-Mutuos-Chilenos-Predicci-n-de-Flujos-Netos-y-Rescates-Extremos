@@ -1,0 +1,2 @@
+# Alerta-Temprana-de-Liquidez-en-Fondos-Mutuos-Chilenos-Predicci-n-de-Flujos-Netos-y-Rescates-Extremos
+Este trabajo desarrolla de un sistema de alerta temprana para predecir flujos netos y rescates extremos en fondos mutuos chilenos (2024–2026), utilizando datos públicos y modelos de Machine Learning en R. Se comparan modelos lineales y Random Forest, con validación temporal y calibración de umbrales.
